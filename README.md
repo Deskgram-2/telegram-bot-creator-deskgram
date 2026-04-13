@@ -39,6 +39,14 @@
 4. Добавьте оформление и дополнительные параметры.
 5. Запустите задачу и контролируйте результаты по логам.
 
+## Что логично связать с этим модулем
+
+- [Создание каналов и групп](https://github.com/Deskgram-2/telegram-channel-creator-deskgram), если боты создаются как часть более широкой сетки площадок;
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если создание ботов распределяется между разными рабочими аккаунтами;
+- [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram), если важно заранее выровнять системные параметры и общую инфраструктуру;
+- [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram), если окружение должно быть устойчивым на масштабе;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если вы контролируете массовое создание и ошибки как единый операционный поток.
+
 ## Как устроен сценарий
 
 ### Подготовка данных
@@ -75,6 +83,8 @@
 - [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
 - [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram)
 - [Создание каналов и групп](https://github.com/Deskgram-2/telegram-channel-creator-deskgram)
+- [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
