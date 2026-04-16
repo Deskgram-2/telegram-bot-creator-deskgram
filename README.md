@@ -2,7 +2,14 @@
 
 Создание ботов в Deskgram 2 помогает массово запускать Telegram-ботов через BotFather с заранее подготовленными именами, usernames, описаниями и оформлением. Это полезно для команд, которые строят бот-сетку, тестируют гипотезы или масштабируют Telegram-инфраструктуру.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+## Интерактивный Web Preview
+
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/app-demo/functions/create_bots)
+
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/app-demo/functions/create_bots)
+
+
 
 ## Скриншоты
 
